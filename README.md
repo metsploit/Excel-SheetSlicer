@@ -47,13 +47,12 @@ It takes one selected sheet, groups rows by the column you choose, and creates a
 
 ## Screenshots
 
-Add your screenshots here.
 
-![Main screen](YOUR_IMAGE_LINK_HERE)
+![Main screen](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20231849.png)
 
-![Sheet and column selection](YOUR_IMAGE_LINK_HERE)
+![Sheet and column selection](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20231943.png)
 
-![Output result](YOUR_IMAGE_LINK_HERE)
+![Output result](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20232110.png)
 
 ---
 
