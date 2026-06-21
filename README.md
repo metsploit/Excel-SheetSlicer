@@ -1,4 +1,4 @@
-# ⚡ Excel Sheet Segregator (Fast)
+# ⚡ Excel SheetSlicer (Fast)
 
 > **Split thousands of Excel rows into perfectly organized worksheets in seconds.**
 
