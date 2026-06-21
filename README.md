@@ -80,8 +80,9 @@ Simply:
 
 ### 📂 Step 1 — Open your workbook
 
+*(Screenshot here)*
 
-![Choose Workbook](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20231943.png)
+![Choose Workbook](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20235333.png)
 
 ⬇️
 
@@ -89,7 +90,7 @@ Simply:
 
 *(Screenshot here)*
 
-![Choose Sheet](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20235447.png)
+![Choose Sheet](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20231943.png)
 
 ⬇️
 
@@ -104,7 +105,7 @@ For example:
 
 *(Screenshot here)*
 
-![Choose Column]([YOUR_IMAGE_LINK](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20231849.png))
+![Choose Column](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20235447.png)
 
 ⬇️
 
@@ -125,7 +126,7 @@ as separate worksheets inside a brand-new workbook.
 
 *(Screenshot here)*
 
-![Output]([YOUR_IMAGE_LINK](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20232110.png))
+![Output](https://github.com/metsploit/Excel-SheetSlicer/blob/main/Screenshot%202026-06-21%20232110.png)
 
 ---
 
